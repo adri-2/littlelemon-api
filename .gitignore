@@ -1,0 +1,56 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+# *.sqlite3
+*.log
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+# db.sqlite3
+# media/
+# static/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+.env.bak/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# PyCharm
+.idea/
+
+# Django migrations (optional, if you don't want to track migrations)
+migrations/
+
+# Others
+*.bak
+*.tmp
+*.swp
