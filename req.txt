@@ -1,0 +1,6 @@
+django
+djangorestframework
+djangorestframework-xml
+djoser
+django-debug-toolbar
+djangorestframework-simplejwt
